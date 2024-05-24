@@ -1,0 +1,9 @@
+[submodule "PllLoader"]
+path = PllLoader
+url = https://github.com/Unreal-Technologies/PllLoader
+[submodule "Tools"]
+path = Tools
+url = https://github.com/Unreal-Technologies/Tools
+[submodule "UT.Php.Core"]
+path = UT.Php.Core
+url = https://github.com/Unreal-Technologies/UT.Php.Core
