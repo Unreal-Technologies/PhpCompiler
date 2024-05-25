@@ -1,6 +1,6 @@
-[submodule "PllLoader"]
-path = PllLoader
-url = https://github.com/Unreal-Technologies/PllLoader
+[submodule "Pll"]
+path = Pll
+url = https://github.com/Unreal-Technologies/Pll
 [submodule "Tools"]
 path = Tools
 url = https://github.com/Unreal-Technologies/Tools
